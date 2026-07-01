@@ -1,0 +1,6 @@
+{
+  "name": "বাংলা সাহিত্য",
+  "description": "বাংলা সাহিত্য শিক্ষা ও ই-বুক প্ল্যাটফর্ম (Bengali Literature Learning & E-book Platform)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
